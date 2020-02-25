@@ -11,4 +11,8 @@ Windows 10 x64
 Unity3D 2019.3.2.f1  
 [HTC VIVE](https://www.vive.com/us/product/vive/)  
 
+**Plugin**  
 After opening the Unity3D, go to the **Asset Store** to download and import the **SteamVR Plugin**.
+
+**How to Run Unity project**  
+Download and run it directly.
