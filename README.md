@@ -1,9 +1,9 @@
 # Scene View in VR
 
 **Introduction**  
-This project shows a simple example of HTC VIVE HMD for navigation in a scene using two controllers.
+This project shows a simple example of HTC VIVE HMD for navigation in a scene using two controllers.  
 
-![Capture1-1.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/Capture1-1.png)
+![Capture1-1.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/Capture1-1.png)  
 
 **Hardware**  
 Labtop: Intel Core i9-8950HK CPU @ 2.90GHz 2.90GHz/32G RAM/GeForce GTX 1080  
