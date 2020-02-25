@@ -1,4 +1,4 @@
-# Navigation Controls in VR using controllers
+# Navigation Controls in VR by Controllers
 
 **Introduction**  
 This project shows a simple example of using controllers to navigate in a virtual environment, and it is based on a [**Video Tutorial**](https://www.youtube.com/watch?v=iJ0oNYIUFJo&t=325s).
