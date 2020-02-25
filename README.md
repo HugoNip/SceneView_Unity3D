@@ -16,3 +16,6 @@ After opening the Unity3D, go to the **Asset Store** to download and import the 
 
 **How to Run Unity project**  
 Download and run it directly.
+
+**Main Assets**  
+Teleportation, including player, Teleporting, TeleportAreaVisible, TeleportArea(C# Script).
