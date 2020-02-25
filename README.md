@@ -1,7 +1,7 @@
 # Scene View in VR
 
 **Introduction**  
-This project shows a simple example of HTC VIVE HMD for navigation in a scene using two controllers.  
+This project shows a simple example of using controllers to navigate in a virtual environment.  
 
 ![Capture1-1.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/Capture1-1.png)  
 
