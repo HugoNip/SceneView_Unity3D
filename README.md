@@ -1,7 +1,7 @@
 # Scene View in VR
 
 **Introduction**  
-This project shows a simple example of using controllers to navigate in a virtual environment, and it is based on a [**Youtube Video**](https://www.youtube.com/watch?v=iJ0oNYIUFJo&t=325s).
+This project shows a simple example of using controllers to navigate in a virtual environment, and it is based on a [**YouTube Video**](https://www.youtube.com/watch?v=iJ0oNYIUFJo&t=325s).
 
 ![Capture1-1.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/Capture1-1.png)  
 
