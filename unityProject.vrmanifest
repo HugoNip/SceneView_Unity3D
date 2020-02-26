@@ -2,13 +2,13 @@
   "source": "Unity",
   "applications": [
     {
-      "app_key": "application.generated.unity.sceneview.exe",
+      "app_key": "application.generated.unity.sceneviewretest.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "D:\\Guang-Yu\\SceneView\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "action_manifest_path": "D:\\Guang-Yu\\SceneViewRetest\\Assets\\StreamingAssets\\SteamVR\\actions.json",
       "strings": {
         "en_us": {
-          "name": "SceneView [Testing]"
+          "name": "SceneViewRetest [Testing]"
         }
       }
     }
