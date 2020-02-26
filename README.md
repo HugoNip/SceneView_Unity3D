@@ -3,8 +3,6 @@
 **Introduction**  
 This project shows a simple example of using controllers for navigation in a virtual environment, and it is based on a [**Video Tutorial**](https://www.youtube.com/watch?v=iJ0oNYIUFJo&t=325s).
 
-![Capture1-1.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/Capture1-1.png)  
-
 **Hardwares**  
 PC: Intel Core i9-8950HK CPU @ 2.90GHz 2.90GHz/32G RAM/GeForce GTX 1080  
 Windows 10 x64  
