@@ -11,9 +11,7 @@ click bottons, check toggles, slide scrollbars
 
 [**Demo**](https://youtu.be/F4rgRLcNyo0)
 
-![screenshot-www.youtube.com-2020.02.27-09_59_53.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/screenshot-www.youtube.com-2020.02.27-09_59_53.png)
-
-![screenshot-www.youtube.com-2020.02.27-10_00_59.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/screenshot-www.youtube.com-2020.02.27-10_00_59.png)
+![VE01.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/VE01.png)
 
 ## How to make this project work in your PC
 ### 1. Hardwares
