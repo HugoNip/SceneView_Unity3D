@@ -3,9 +3,11 @@
 ## Introduction
 This project shows a simple example of using controllers for navigation and interaction with 3D UI in a virtual environment.
 
-## What can users do in this virtual environment?
-1. Navigation (forward, backward, up, down, rotation)
-2. Interaction with 3D UI (bottons, toggles, scrollbars)
+## What Can Users Do in This Virtual Environment?
+### Navigation
+go forward, backward, up, down, rotation
+### Interaction with 3D UI
+click bottons, check toggles, slide scrollbars
 
 [**Demo**](https://youtu.be/F4rgRLcNyo0)
 
