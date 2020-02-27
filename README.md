@@ -30,9 +30,10 @@ Teleportation, including Teleporting, TeleportAreaVisible, TeleportArea(C# Scrip
 
 [**Official Documents of Controllers**](https://www.vive.com/eu/support/vive/category_howto/about-the-controllers.html)
 
-|**Button Name** |       **Left Controller**                        |        **Right Controller**        |
-|Menu Button     |Click to show raycast                             |Click to hide graycast              |
-|TrackPad        |Touch to go forward or back                       |Touch to go up or down              |
-|Trigger         |Pull to select the detination and Click to arrive |Click buttons, checkboxs and toggles|
-|Grip Button     |Click to show UI pannel                           |Click to hide UI pannel             |
+|**Button Name** |       **Left Controller**                        |        **Right Controller**        |  
+|----------------|--------------------------------------------------|------------------------------------|  
+|Menu Button     |Click to show raycast                             |Click to hide graycast              |  
+|TrackPad        |Touch to go forward or back                       |Touch to go up or down              |  
+|Trigger         |Pull to select the detination and Click to arrive |Click buttons, checkboxs and toggles|  
+|Grip Button     |Click to show UI pannel                           |Click to hide UI pannel             |  
 
