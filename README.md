@@ -1,7 +1,7 @@
-# Navigation Controls in VR by Controllers
+# Navigation and Interaction with 3D UI in VR
 
 ## Introduction
-This project shows a simple example of using controllers for navigation and UI in a virtual environment.
+This project shows a simple example of using controllers for navigation and interaction with 3D UI in a virtual environment.
 
 ## What can users do in this virtual environment?
 1. Navigation (forward, backward, up, down, rotation)
@@ -40,4 +40,5 @@ Download and run it directly. **Test06RayCastFinished.unity** shows the finished
 
 ![Introduction.jpg](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/Introduction.jpg)
 
+### 6. Attachment
 [**Official Documents of Controllers**](https://www.vive.com/eu/support/vive/category_howto/about-the-controllers.html)
