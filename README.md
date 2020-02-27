@@ -1,13 +1,17 @@
 # Navigation Controls in VR by Controllers
 
+## Introduction
+This project shows a simple example of using controllers for navigation and UI in a virtual environment.
+
+## What can users do in this virtual environment?
+1. Navigation (forward, backward, up, down, rotation)
+2. Interaction with 3D UI (bottons, toggles, scrollbars)
+
+[**Demo**](https://youtu.be/F4rgRLcNyo0)
+
 ![screenshot-www.youtube.com-2020.02.27-09_59_53.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/screenshot-www.youtube.com-2020.02.27-09_59_53.png)
 
 ![screenshot-www.youtube.com-2020.02.27-10_00_59.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/screenshot-www.youtube.com-2020.02.27-10_00_59.png)
-
-## Introduction
-This project shows a simple example of using controllers for navigation in a virtual environment.
-
-[**Demo**](https://youtu.be/F4rgRLcNyo0)
 
 ## Hardwares
 PC: Intel Core i9-8950HK CPU @ 2.90GHz 2.90GHz/32G RAM/GeForce GTX 1080  
@@ -33,7 +37,7 @@ Teleportation, including Teleporting, TeleportAreaVisible, TeleportArea(C# Scrip
 |**Button Name** |       **Left Controller**                        |        **Right Controller**        |  
 |----------------|--------------------------------------------------|------------------------------------|  
 |Menu Button     |Click to show raycast                             |Click to hide raycast               |  
-|TrackPad        |Touch to go forward or back                       |Touch to go up or down              |  
+|TrackPad        |Touch to go forward or backward                   |Touch to go up or down              |  
 |Trigger         |Pull to select the detination and Click to arrive |Click buttons, checkboxs and toggles|  
 |Grip Button     |Click to show UI pannel                           |Click to hide UI pannel             |  
 
