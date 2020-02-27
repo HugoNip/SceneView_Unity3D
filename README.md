@@ -20,4 +20,4 @@ Teleportation, including Teleporting, TeleportAreaVisible, TeleportArea(C# Scrip
 
 
 **Introduction of Controllers**  
-![Introduction.jpg]https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/Introduction.jpg..
+![Introduction.jpg](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/Introduction.jpg)
