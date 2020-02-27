@@ -40,7 +40,7 @@ Download and run it directly. **Test06RayCastFinished.unity** shows the finished
 
 ![Introduction.jpg](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/Introduction.jpg)
 
-### 6. Attachment and related toturials
+### 6. Related Toturials
 [**Official Documents of Controllers**](https://www.vive.com/eu/support/vive/category_howto/about-the-controllers.html)  
 **Video** [**01**](https://www.youtube.com/watch?v=iJ0oNYIUFJo&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=3&t=0s)  
 **Video** [**02**](https://www.youtube.com/watch?v=5C6zr4Q5AlA&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=5&t=734s)  
@@ -49,4 +49,10 @@ Download and run it directly. **Test06RayCastFinished.unity** shows the finished
 **Video Series** [**05**](https://www.youtube.com/watch?v=TUSvupeYZv4&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=10), [**06**](https://www.youtube.com/watch?v=ZI6DwJtjlBA&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=12&t=0s)  
 **Video Series** [**07**](https://www.youtube.com/watch?v=3mRI1hu9Y3w&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=14&t=19s), [**08**](https://www.youtube.com/watch?v=h_BMXDWv10I), 
 [**09**](https://www.youtube.com/watch?v=vNqHRD4sqPc).
+
+## Issues and Solutions
+1. Because of the device limitation, especially the GPU, the controllers always drift in the virtual environment.
+2. Try to reinstall SteamVR or recalibrate the controllers and HMD to fix the issues when you suffer from any issues about SteanVR and controllers.
+
+## Contact me if you have any questions, thank you for your attention.
 
