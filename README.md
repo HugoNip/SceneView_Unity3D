@@ -28,5 +28,7 @@ Teleportation, including Teleporting, TeleportAreaVisible, TeleportArea(C# Scrip
 ## Introduction of Controllers
 ![Introduction.jpg](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/Introduction.jpg)
 
-### Left controller:  
+[**Official Documents of Controllers**](https://www.vive.com/eu/support/vive/category_howto/about-the-controllers.html)
+
+### Left controller
 
