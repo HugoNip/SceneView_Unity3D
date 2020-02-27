@@ -32,8 +32,13 @@ Teleportation, including Teleporting, TeleportAreaVisible, TeleportArea(C# Scrip
 
 
 
-|----------------|---------------------|---------------------|
-|**Button Name** | **Left Controller** | **Right Controller**|
-|----------------|---------------------|---------------------|
-|Menu Button     |                     |                     |
-|----------------|---------------------|---------------------|
+
+|**Button Name** |       **Left Controller**                        |        **Right Controller**    |
+|----------------|--------------------------------------------------|--------------------------------|
+|Menu Button     |Click to show raycast                             |Click to hide graycast          |
+|----------------|--------------------------------------------------|--------------------------------|
+|TrackPad        |Touch to go forward or back                       |Touch to go up or down              |
+|----------------|--------------------------------------------------|------------------------------------|
+|Trigger         |Pull to select the detination and Click to arrive |Click buttons, checkboxs and toggles|
+|----------------|--------------------------------------------------|--------------------------------|
+
