@@ -40,5 +40,13 @@ Download and run it directly. **Test06RayCastFinished.unity** shows the finished
 
 ![Introduction.jpg](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/Introduction.jpg)
 
-### 6. Attachment
-[**Official Documents of Controllers**](https://www.vive.com/eu/support/vive/category_howto/about-the-controllers.html)
+### 6. Attachment and related toturials
+[**Official Documents of Controllers**](https://www.vive.com/eu/support/vive/category_howto/about-the-controllers.html)  
+[**Video01**](https://www.youtube.com/watch?v=iJ0oNYIUFJo&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=3&t=0s)  
+[**Video02**](https://www.youtube.com/watch?v=5C6zr4Q5AlA&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=5&t=734s)  
+[**Video03**](https://www.youtube.com/watch?v=bn8eMxBcI70&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=6&t=0s)  
+[**Video04**](https://www.youtube.com/watch?v=N_R5V6KNFhA&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=10&t=0s)  
+[**Video05**](https://www.youtube.com/watch?v=TUSvupeYZv4&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=10)  
+**Video Series**[**06**](https://www.youtube.com/watch?v=ZI6DwJtjlBA&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=12&t=0s), [**07**](https://www.youtube.com/watch?v=3mRI1hu9Y3w&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=14&t=19s), 
+[**08**](https://www.youtube.com/watch?v=vNqHRD4sqPc).
+
