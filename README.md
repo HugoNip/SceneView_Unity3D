@@ -38,7 +38,7 @@ Download and run it directly. **Test06RayCastFinished.unity** shows the finished
 |Trigger         |Pull to select the detination and Click to arrive |Click buttons, checkboxs and toggles|  
 |Grip Button     |Click to show UI pannel                           |Click to hide UI pannel             |  
 
-![Introduction.jpg](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/Introduction.jpg)
+![note03.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/note03.png)
 
 ### 6. Related Toturials
 [**Official Documents of Controllers**](https://www.vive.com/eu/support/vive/category_howto/about-the-controllers.html)  
