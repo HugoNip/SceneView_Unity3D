@@ -13,7 +13,7 @@ This project shows a simple example of using controllers for navigation and inte
 
 ![screenshot-www.youtube.com-2020.02.27-10_00_59.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/screenshot-www.youtube.com-2020.02.27-10_00_59.png)
 
-## How to Run Unity project
+## How to make this project work in your PC
 ### 1. Hardwares
 PC: Intel Core i9-8950HK CPU @ 2.90GHz 2.90GHz/32G RAM/GeForce GTX 1080  
 Windows 10 x64  
@@ -48,7 +48,7 @@ Download and run it directly. **Test06RayCastFinished.unity** shows the finished
 **Video** [**04**](https://www.youtube.com/watch?v=N_R5V6KNFhA&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=10&t=0s)  
 **Video Series** [**05**](https://www.youtube.com/watch?v=TUSvupeYZv4&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=10), [**06**](https://www.youtube.com/watch?v=ZI6DwJtjlBA&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=12&t=0s)  
 **Video Series** [**07**](https://www.youtube.com/watch?v=3mRI1hu9Y3w&list=PLIzNKynZC57jGBlbrs1-rLyYqCZI0crsO&index=14&t=19s), [**08**](https://www.youtube.com/watch?v=h_BMXDWv10I), 
-[**09**](https://www.youtube.com/watch?v=vNqHRD4sqPc).
+[**09**](https://www.youtube.com/watch?v=vNqHRD4sqPc)
 
 ## Issues and Solutions
 1. Because of the device limitation, especially the GPU, the controllers always drift in the virtual environment.
