@@ -17,3 +17,7 @@ Download and run it directly.
 
 **Main Assets**  
 Teleportation, including Teleporting, TeleportAreaVisible, TeleportArea(C# Script).
+
+
+**Introduction of Controllers**  
+![Introduction.jpg]https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/Introduction.jpg..
