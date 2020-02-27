@@ -31,8 +31,8 @@ Teleportation, including Teleporting, TeleportAreaVisible, TeleportArea(C# Scrip
 [**Official Documents of Controllers**](https://www.vive.com/eu/support/vive/category_howto/about-the-controllers.html)
 
 
-|                |              **Operation**                |
-|                |-------------------------------------------|
+
+|----------------|---------------------|---------------------|
 |**Button Name** | **Left Controller** | **Right Controller**|
 |----------------|---------------------|---------------------|
 |Menu Button     |                     |                     |
