@@ -55,8 +55,28 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\PlayerController.cs" />
-     <Compile Include="Assets\ShowControllers.cs" />
+     <Compile Include="Assets\Scripts\ButtonTransitioner.cs" />
+     <Compile Include="Assets\Scripts\CheckBox.cs" />
+     <Compile Include="Assets\Scripts\EmptyScript2.cs" />
+     <Compile Include="Assets\Scripts\ImageButtonScrollList.cs" />
+     <Compile Include="Assets\Scripts\ImageDisplayScreen.cs" />
+     <Compile Include="Assets\Scripts\ModelButtonScrollList.cs" />
+     <Compile Include="Assets\Scripts\ModelDisplayScreen.cs" />
+     <Compile Include="Assets\Scripts\ModelNameDisplayScreen.cs" />
+     <Compile Include="Assets\Scripts\PanelHideShow.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\PlayerControllerUpDown.cs" />
+     <Compile Include="Assets\Scripts\Pointer.cs" />
+     <Compile Include="Assets\Scripts\PointerShowHide.cs" />
+     <Compile Include="Assets\Scripts\ScrollBarSlide.cs" />
+     <Compile Include="Assets\Scripts\ShowControllers.cs" />
+     <Compile Include="Assets\Scripts\ShowingHidingScreens.cs" />
+     <Compile Include="Assets\Scripts\TimeLineScrollbar.cs" />
+     <Compile Include="Assets\Scripts\TimeLineStartButton.cs" />
+     <Compile Include="Assets\Scripts\VRInputModule.cs" />
+     <Compile Include="Assets\Scripts\ViewTimeLine.cs" />
+     <Compile Include="Assets\Scripts\ViewToggle.cs" />
+     <Compile Include="Assets\Scripts\emptyscript.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/Guang-Yu/SceneViewRetest/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>
@@ -611,6 +631,10 @@
  </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="SteamVR_Actions.csproj">
+      <Project>{3F7CF0D7-3864-7F7E-B421-CE16ED4F9895}</Project>
+      <Name>SteamVR_Actions</Name>
+    </ProjectReference>
     <ProjectReference Include="SteamVR_Input_Editor.csproj">
       <Project>{ED2463D4-4705-C065-D7D1-66A9BD5AD55A}</Project>
       <Name>SteamVR_Input_Editor</Name>
@@ -626,10 +650,6 @@
     <ProjectReference Include="SteamVR_Windows_EditorHelper.csproj">
       <Project>{A0BC1BD2-469A-0E02-F99F-BE81CCAE5258}</Project>
       <Name>SteamVR_Windows_EditorHelper</Name>
-    </ProjectReference>
-    <ProjectReference Include="SteamVR_Actions.csproj">
-      <Project>{3F7CF0D7-3864-7F7E-B421-CE16ED4F9895}</Project>
-      <Name>SteamVR_Actions</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

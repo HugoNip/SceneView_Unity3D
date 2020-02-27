@@ -54,6 +54,34 @@
       "type": "vector2"
     },
     {
+      "name": "/actions/default/in/TouchpadRightHand",
+      "type": "vector2"
+    },
+    {
+      "name": "/actions/default/in/GripLeft4Show",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/default/in/GripRight4Hide",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/default/in/TriggerPull",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/default/in/TriggerButton",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/default/in/MenuLeft4PointerShow",
+      "type": "boolean"
+    },
+    {
+      "name": "/actions/default/in/MenuRight4PointerHide",
+      "type": "boolean"
+    },
+    {
       "name": "/actions/default/out/Haptic",
       "type": "vibration"
     },
@@ -170,7 +198,14 @@
       "/actions/platformer/in/Jump": "Jump",
       "/actions/default/in/SnapTurnLeft": "Snap Turn (Left)",
       "/actions/default/in/SnapTurnRight": "Snap Turn (Right)",
-      "/actions/default/in/TouchPad": "Touchpad"
+      "/actions/default/in/TouchPad": "Touchpad",
+      "/actions/default/in/TouchpadRightHand": "TouchpadRightHand",
+      "/actions/default/in/GripLeft4Show": "GripLeft4Show",
+      "/actions/default/in/GripRight4Hide": "GripRight4Hide",
+      "/actions/default/in/TriggerPull": "TriggerPull",
+      "/actions/default/in/TriggerButton": "TriggerButton",
+      "/actions/default/in/MenuLeft4PointerShow": "MenuLeft4PointerShow",
+      "/actions/default/in/MenuRight4PointerHide": "MenuRight4PointerHide"
     }
   ]
 }

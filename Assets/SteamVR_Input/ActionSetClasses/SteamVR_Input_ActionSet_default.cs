@@ -113,6 +113,62 @@ namespace Valve.VR
             }
         }
         
+        public virtual SteamVR_Action_Vector2 TouchpadRightHand
+        {
+            get
+            {
+                return SteamVR_Actions.default_TouchpadRightHand;
+            }
+        }
+        
+        public virtual SteamVR_Action_Boolean GripLeft4Show
+        {
+            get
+            {
+                return SteamVR_Actions.default_GripLeft4Show;
+            }
+        }
+        
+        public virtual SteamVR_Action_Boolean GripRight4Hide
+        {
+            get
+            {
+                return SteamVR_Actions.default_GripRight4Hide;
+            }
+        }
+        
+        public virtual SteamVR_Action_Boolean TriggerPull
+        {
+            get
+            {
+                return SteamVR_Actions.default_TriggerPull;
+            }
+        }
+        
+        public virtual SteamVR_Action_Boolean TriggerButton
+        {
+            get
+            {
+                return SteamVR_Actions.default_TriggerButton;
+            }
+        }
+        
+        public virtual SteamVR_Action_Boolean MenuLeft4PointerShow
+        {
+            get
+            {
+                return SteamVR_Actions.default_MenuLeft4PointerShow;
+            }
+        }
+        
+        public virtual SteamVR_Action_Boolean MenuRight4PointerHide
+        {
+            get
+            {
+                return SteamVR_Actions.default_MenuRight4PointerHide;
+            }
+        }
+        
         public virtual SteamVR_Action_Vibration Haptic
         {
             get
