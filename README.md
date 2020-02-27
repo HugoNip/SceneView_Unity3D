@@ -23,7 +23,7 @@ Windows 10 x64
 After opening the Unity3D, go to the **Asset Store** to download and import the **SteamVR Plugin**.
 
 ## How to Run Unity project
-Download and run it directly.
+Download and run it directly. **Test06RayCastFinished.unity** shows thye finished scene.
 
 ## Main Assets
 Teleportation, including Teleporting, TeleportAreaVisible, TeleportArea(C# Script).
