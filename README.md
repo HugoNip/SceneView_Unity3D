@@ -4,9 +4,9 @@
 This project shows a simple example of using controllers for navigation and interaction with 3D UI in a virtual environment.
 
 ## What Can Users Do in This Virtual Environment?
-### Navigation
+### 1. Navigation
 go forward, backward, up, down, rotation
-### Interaction with 3D UI
+### 2. Interaction with 3D UI
 click bottons, check toggles, slide scrollbars
 
 [**Demo**](https://youtu.be/F4rgRLcNyo0)
@@ -55,6 +55,3 @@ Download and run it directly. **Test06RayCastFinished.unity** shows the finished
 ## Issues and Solutions
 1. Because of the device limitation, especially the GPU, the controllers always drift in the virtual environment.
 2. Try to reinstall SteamVR or recalibrate the controllers and HMD to fix the issues when you suffer from any issues about SteanVR and controllers.
-
-## Contact me if you have any questions, thank you for your attention.
-
