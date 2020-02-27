@@ -1,5 +1,9 @@
 # Navigation Controls in VR by Controllers
 
+![screenshot-www.youtube.com-2020.02.27-09_59_53.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/screenshot-www.youtube.com-2020.02.27-09_59_53.png)
+
+![screenshot-www.youtube.com-2020.02.27-10_00_59.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/screenshot-www.youtube.com-2020.02.27-10_00_59.png)
+
 **Introduction**  
 This project shows a simple example of using controllers for navigation in a virtual environment.
 
