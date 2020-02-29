@@ -13,7 +13,7 @@ click bottons, check toggles, slide scrollbars
 
 ![VE01.png](https://github.com/HugoNip/SceneView_Unity3D/blob/master/figure/VE01.png)
 
-## How to make this project work in your PC
+## How to Make This Project Work in Your PC
 ### 1. Hardwares
 PC: Intel Core i9-8950HK CPU @ 2.90GHz 2.90GHz/32G RAM/GeForce GTX 1080  
 Windows 10 x64  
@@ -33,7 +33,7 @@ Download and run it directly. **Test06RayCastFinished.unity** shows the finished
 
 |**Button Name** |       **Left Controller**                        |        **Right Controller**        |  
 |----------------|--------------------------------------------------|------------------------------------|  
-|Menu Button     |Click to show raycast                             |Click to hide raycast               |  
+|Menu Button     |Click to show ray                                 |Click to hide ray                   |  
 |TrackPad        |Touch to go forward or backward                   |Touch to go up or down              |  
 |Trigger         |Pull to select the detination and Click to arrive |Click buttons, checkboxs and toggles|  
 |Grip Button     |Click to show UI pannel                           |Click to hide UI pannel             |  
