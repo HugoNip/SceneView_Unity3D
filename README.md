@@ -7,7 +7,8 @@ This project shows a simple example of using controllers for navigation and inte
 ### 1. Navigation
 go forward, backward, up, down, rotation
 ### 2. Interaction with 3D UI
-click bottons, check toggles, slide scrollbars
+click bottons, check toggles, slide scrollbars  
+show an example to build relationships between the toggles and cubes (show/hide), and between the scrollbars and cubes (go up/down). 
 
 [**Demo**](https://youtu.be/F4rgRLcNyo0)
 
